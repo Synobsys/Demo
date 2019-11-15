@@ -2,7 +2,7 @@ This is a DEMO Application to show the use of OutSystems in creating a Mobile Ap
 
 Before you start building the Mobile Application please download these two files:
 
- . Employee.xslx
- . Contacts.png
+- Employee.xlsx                                                                                                 
+- Contacts.png
  
  
