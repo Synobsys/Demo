@@ -6,3 +6,4 @@ Before you start building the Mobile Application please download these two files
 - Contacts.png
  
  
+📱
